@@ -15,7 +15,6 @@ This project aims to predict the number of reviews for Airbnb listings in New Yo
 - [What I Learned](#what-i-learned)
 - [Usage](#usage)
 - [Installation](#installation)
-- [License](#license)
 
 ## Introduction
 The purpose of this project is to build machine learning models to predict the number of reviews for Airbnb listings in New York City. Accurate predictions can help hosts and property managers optimize their listings and improve customer satisfaction.
@@ -85,6 +84,3 @@ Ensure you have Python 3.7+ and the following libraries installed:
 	•	scikit-learn
 	•	matplotlib
 	•	seaborn
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
